@@ -19,14 +19,14 @@ Precision Agriculture leverages machine learning to enhance farming practices. T
 
 ## Models
 - ## Crop Recommendation
-- - - Analyzes soil and environmental factors to suggest optimal crops.
+- - Analyzes soil and environmental factors to suggest optimal crops.
 
 - ## Fertilizer Recommendation
-- - - Recommends the best fertilizer based on crop type and soil conditions.
+- - Recommends the best fertilizer based on crop type and soil conditions.
 
 - ## Disease Detection
-- - - Uses CNNs to identify plant diseases from images and provide treatment suggestions.
+- - Uses CNNs to identify plant diseases from images and provide treatment suggestions.
 
 - ## Web Interface
-- - - Built with Flask, the web interface allows easy input of data and viewing of results.
+- - Built with Flask, the web interface allows easy input of data and viewing of results.
 
